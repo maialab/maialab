@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : "Functional Genomics of Cancer"
 name                     : "Ana-Teresa Maia"
 description              : "Under construction."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://maialab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "maialab/maialab.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/ATM_maialab.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Ana-Teresa Maia"
-  avatar           : "assets/images/EBI_ATMaia.jpg"
+  avatar           : "assets/images/ATM_maialab.jpg"
   bio              : #"Under conctruction."
   location         : "University of Algarve"
   email            :
@@ -108,13 +108,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/AnaTeresaMaia1/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/maialab?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
