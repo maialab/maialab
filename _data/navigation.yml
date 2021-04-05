@@ -2,11 +2,11 @@
 main:
   - title: "Research"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Members"
-    url: https://maialab.github.io/members/
-   - title: "Publications"
-    url: https://maialab.github.io/publications/
-   - title: "News"
-    url: https://maialab.github.io/news/
+  # - title: "Members"
+  #  url: https://maialab.github.io/members/
+  # - title: "Publications"
+  #  url: https://maialab.github.io/publications/
+  # - title: "News"
+  #  url: https://maialab.github.io/news/
   # - title: "Sitemap"
   #   url: /sitemap/
