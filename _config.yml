@@ -25,8 +25,8 @@ url                      : "https://maialab.github.io"
 baseurl                  : "maialab.org"
 repository               : "maialab/maialab.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/ATM_maialab.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : # "/assets/images/ATM_maialab.png"
+masthead_title           : "MaiaLab"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Ana-Teresa Maia"
-  avatar           : "assets/images/ATM_maialab.png"
+  avatar           : # "assets/images/ATM_maialab.png"
   bio              : #"Under conctruction."
   location         : "University of Algarve"
   email            :
